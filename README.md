@@ -15,7 +15,7 @@ Implementation of a custom training loop for ResNet56x2 on CIFAR10 dataset, util
 - Manual handling of:
     - Metrics (accuracy, loss)
     - Optimization (gradient calculation, learning rate scheduling)
-- Low-level optimization control
+- Implementation of custom training progress bar
 
 ## Implementation Details
 
