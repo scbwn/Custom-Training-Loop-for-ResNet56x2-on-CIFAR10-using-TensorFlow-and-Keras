@@ -1,4 +1,4 @@
-# Custom-Training-Loop-for-ResNet56x2-on-CIFAR10-using-TensorFlow-and-Keras
+# Custom Training Loop for ResNet56x2 on CIFAR10 using TensorFlow and Keras
 
 ## Project Overview
 
