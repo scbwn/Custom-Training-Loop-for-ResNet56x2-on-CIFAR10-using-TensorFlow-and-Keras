@@ -83,7 +83,7 @@ def resnet_layer(x,
 
 def building_blocks(x, filters=16*2, depth=56):
     if (depth - 2) % 6 != 0:
-        raise ValueError('depth should be 6n+2 (eg 20, 32, 44 in [a])')
+        raise ValueError('depth should be 6n+2 (eg 20, 32, 44)')
     num_filters = filters
     num_res_blocks = int((depth - 2) / 6)
 
